@@ -1,0 +1,2 @@
+defmodule SimpleCache do
+end
